@@ -39,13 +39,14 @@
     cd $HOME
     ```
 
-2. 將 `src` 內的 `.cshrc` 和 `script` 資料夾直接丟到家目錄內
-    ![image](https://hackmd.io/_uploads/SkVb7sCnA.png)
+2. 將 `src` 內的 `.cshrc` 和 `script` 資料夾直接丟到家目錄
+
+    ![](https://hackmd.io/_uploads/SkVb7sCnA.png)
 
 3. Terminal 輸入指令: `source $HOME/.cshrc`
 
 4. **之後如果要修改Lab路徑**
     * 編輯`~script/setting.csh`中的`set FOLDER="Lab??/Exercise"`
-    * 或直接輸入`setting`，將跳出 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png =12x) VSCode 視窗後編輯
+    * 或直接輸入`setting`，將跳出 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png) VSCode 視窗後編輯
     ![](https://hackmd.io/_uploads/HJID4ErMa.png)
 
